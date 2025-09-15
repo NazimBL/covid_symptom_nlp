@@ -14,6 +14,6 @@ requirements.txt
 - **AvgGeneExpression.py** — builds one-hot symptom matrix from tokenized lists, computes symptom-by-pathway average expression, saves CSV and a heatmap. 
 - **GeneExpressionMapping.py** — merges symptom one-hot flags with cohort pathways, computes average-expression matrix, plots heatmap + top-pathways per symptom.  
 - **CohortFiltering.py** — filters pathway matrix IDs to PASC samples for 3–12 months and saves filtered CSV.  
-- **ZeroShotMapping.py** — generates one-hot symptom flags + raw scores via BART; note it currently writes to an absolute Windows path—change to a relative path before running. 
-
+- **ZeroShotMapping.py** — generates one-hot symptom flags + raw scores via BART;
+  
 
