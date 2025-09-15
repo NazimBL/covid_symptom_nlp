@@ -1,0 +1,20 @@
+Symptom,Symptom count for PASC,Symptom count for NO PASC,Symptom percent for PASC,Symptom percent for NO PASC
+Fatigue,8,5,44.44444444444444,25.0
+Pain,11,5,61.111111111111114,25.0
+Headache,6,3,33.33333333333333,15.0
+Fever,2,0,11.11111111111111,0.0
+Cough,7,2,38.88888888888889,10.0
+Shortness of Breath,5,3,27.77777777777778,15.0
+Chest Pain,6,0,33.33333333333333,0.0
+Brain Fog,9,3,50.0,15.0
+Dizziness,0,0,0.0,0.0
+Abdominal Pain,4,2,22.22222222222222,10.0
+Palpitations,6,0,33.33333333333333,0.0
+Sleep Disorders,6,2,33.33333333333333,10.0
+Neurological Symptoms,10,2,55.55555555555556,10.0
+Mental Health,9,6,50.0,30.0
+Skin Symptoms,4,0,22.22222222222222,0.0
+Oral Symptoms,0,0,0.0,0.0
+Loss of Smell or Taste,5,0,27.77777777777778,0.0
+Edema,0,0,0.0,0.0
+Vision,7,2,38.88888888888889,10.0

@@ -1,0 +1,31 @@
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Data & outputs
+data/raw/
+outputs/
+*.log
+*.tmp
+
+# Secrets / config
+.env
+*.env
+
+# OS junk
+.DS_Store
+Thumbs.db
